@@ -4,7 +4,7 @@
 
 The Sea of Thieves cheat menu is the ultimate pirate’s toolkit, combining aimbot, ESP, wallhack, and mod options into one customizable interface. Whether you’re treasure hunting or battling rival crews, this cheat menu puts every hack at your fingertips.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Menu-blueviolet)](https://sea-of-thieves-cheat-menu.github.io/.github/)
 ---
 
 ## Product Description
