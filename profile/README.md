@@ -10,7 +10,8 @@ The Sea of Thieves cheat menu is the ultimate pirate’s toolkit, combining aimb
 ## Product Description
 
 Instead of juggling multiple hacks, the cheat menu lets you control everything in one clean UI. Toggle ESP to spot loot, activate aimbot for perfect cannon shots, or switch on wallhack to catch sneaky stowaways. With hotkeys and presets, the menu makes cheating smooth, fast, and efficient while sailing the seas.
-<img width="474" height="266" alt="image" src="https://github.com/user-attachments/assets/0126f9c6-59fd-4080-b0fd-25793a7f784f" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9c9ca4e5-e28c-4111-9308-e29974f6c842" />
+
 
 ---
 
